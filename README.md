@@ -1,2 +1,2 @@
-# P
+# Profiles
 bash and vimrc profile
